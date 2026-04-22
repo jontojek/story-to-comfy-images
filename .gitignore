@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# This repo: local pipeline state and generated / personal text (safe defaults for GitHub)
+.story_to_comfy_settings.json
+prompts_draft.txt
+prompts_approved.txt

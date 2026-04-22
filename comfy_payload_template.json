@@ -1,0 +1,24 @@
+{
+  "prompt": {
+    "3": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {
+        "text": "REPLACE_ME",
+        "clip": [
+          "2",
+          1
+        ]
+      }
+    },
+    "9": {
+      "class_type": "SaveImage",
+      "inputs": {
+        "filename_prefix": "story_frames/frame",
+        "images": [
+          "8",
+          0
+        ]
+      }
+    }
+  }
+}
